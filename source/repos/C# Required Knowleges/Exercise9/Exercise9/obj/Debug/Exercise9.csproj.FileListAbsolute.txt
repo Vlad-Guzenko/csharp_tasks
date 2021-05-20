@@ -1,0 +1,7 @@
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise9\Exercise9\bin\Debug\Exercise9.exe.config
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise9\Exercise9\bin\Debug\Exercise9.exe
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise9\Exercise9\bin\Debug\Exercise9.pdb
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise9\Exercise9\obj\Debug\Exercise9.csprojAssemblyReference.cache
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise9\Exercise9\obj\Debug\Exercise9.csproj.CoreCompileInputs.cache
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise9\Exercise9\obj\Debug\Exercise9.exe
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise9\Exercise9\obj\Debug\Exercise9.pdb

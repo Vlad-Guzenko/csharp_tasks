@@ -1,0 +1,7 @@
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise8\Exercise8\bin\Debug\Exercise8.exe.config
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise8\Exercise8\bin\Debug\Exercise8.exe
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise8\Exercise8\bin\Debug\Exercise8.pdb
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise8\Exercise8\obj\Debug\Exercise8.csprojAssemblyReference.cache
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise8\Exercise8\obj\Debug\Exercise8.csproj.CoreCompileInputs.cache
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise8\Exercise8\obj\Debug\Exercise8.exe
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise8\Exercise8\obj\Debug\Exercise8.pdb

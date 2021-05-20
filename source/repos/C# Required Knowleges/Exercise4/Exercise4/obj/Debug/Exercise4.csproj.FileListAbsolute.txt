@@ -1,0 +1,6 @@
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise4\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise4\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise4\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise4\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise4\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise4\Exercise4\obj\Debug\Exercise4.pdb

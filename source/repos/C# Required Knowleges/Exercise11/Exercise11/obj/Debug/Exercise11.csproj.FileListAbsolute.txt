@@ -1,0 +1,7 @@
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise11\Exercise11\bin\Debug\Exercise11.exe.config
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise11\Exercise11\bin\Debug\Exercise11.exe
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise11\Exercise11\bin\Debug\Exercise11.pdb
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise11\Exercise11\obj\Debug\Exercise11.csprojAssemblyReference.cache
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise11\Exercise11\obj\Debug\Exercise11.csproj.CoreCompileInputs.cache
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise11\Exercise11\obj\Debug\Exercise11.exe
+C:\Users\vladp\source\repos\C# Required Knowleges\Exercise11\Exercise11\obj\Debug\Exercise11.pdb
